@@ -12,9 +12,12 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+    
+    While completing the match function, I had difficulty with my indentations because I messed up one line and it messed everything else up, aswell. 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
+
+    You could use the match function for extracting information from a movie database by using the source and pattern and comparing the two to find similarities and differences. I am still a little confused about the specifics of it all, but I get the gist of it and understand how the program compares the items in the arrays.
 
 
